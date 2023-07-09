@@ -1,0 +1,94 @@
+.profile-bg {
+    background-color: rgba(250, 250, 250);
+    width: 390px;
+    height: 750px;
+    position: relative;
+}
+#prohead{
+    background-color: #fff;
+    width: 390px;
+    height: 65px;
+    position: absolute;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 60px;
+}
+#probtn{
+    border: 0;
+    background-color: #fff;
+    width: 40px;
+    margin-right: 140px;
+}
+#rearr{
+    height: 20px;
+    width: 20px;
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 155px;
+}
+#probody{
+        background-color: #fff;
+        position: absolute;
+        margin-left: 10px;
+        width: 360px;
+        height: 550px;
+        border-radius: 7px;
+        box-shadow:2px 2px 10px rgba(128, 128, 128, 0.147);
+        margin-top: 85px;
+}
+#proava{
+    background-image: url("./propic/avatar1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 33px;
+    position: relative;
+}
+#prop{
+    position:absolute;
+    margin-top: 85px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+#prointro{
+    position: absolute;
+    margin-top: 50px;
+    width: 300px;
+    margin-left: 37px;
+    height: 150px;
+}
+.protip{
+    background-color:#fff;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgb(237,237,237);
+    position: relative;
+}
+.prop{
+    display: inline-block;
+    font-size: 15px;
+    margin:0;
+    color:rgb(102,102,102);
+    position: absolute;
+    right: 0;
+}
+#unload{
+    position: absolute;
+    margin-top: 350px;
+
+}
+#unloadbtn{
+    background-color: rgb(111,204,133);
+    width: 300px;
+    margin-left: 30px;
+    height: 40px;
+    border: 0;
+    border-radius: 25px;
+    color: white;
+    font-size: 16px;
+}

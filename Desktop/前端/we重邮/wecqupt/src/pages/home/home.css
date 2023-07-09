@@ -1,0 +1,254 @@
+.home-bg {
+    background-color: rgba(250, 250, 250);
+    background-size: 100%;
+    width: 390px;
+    height: 844px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#homehead {
+    background-color: #fff;
+    width: 390px;
+    height: 60px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    text-align: center;
+}
+
+#hometab {
+    color: rgb(140, 194, 144);
+}
+
+#minebtn {
+    border: 0;
+    background-color: rgba(250, 250, 250);
+    margin-left: -5px;
+}
+
+#timepic {
+    height: 35px;
+    width: 40px;
+}
+
+#homepic {
+    height: 35px;
+    width: 40px;
+}
+
+#minepic {
+    height: 40px;
+    width: 40px;
+}
+
+#minep {
+    margin-top: -6px;
+}
+
+#board {
+    background-color: #fff;
+    position: absolute;
+    width: 350px;
+    height: 270px;
+    margin-top: 430px;
+    margin-left: 20px;
+    border-radius: 10px 10px 0 0;
+}
+
+#boardtop {
+    background-color: #ffffff;
+    border-bottom: 1px solid rgba(237, 237, 237, 0.871);
+    width: 350px;
+    height: 50px;
+    border-radius: 10px 10px 0 0;
+}
+
+.boardbtn {
+    background-color: #fff;
+    border: 0;
+    height: 50px;
+    color: rgb(102, 102, 102);
+    margin-left: 5px;
+}
+
+#daily {
+    width: 350px;
+    height: 220px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(102, 102, 102);
+    font-size: 14px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+#notice {
+    width: 350px;
+    height: 220px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(102, 102, 102);
+    font-size: 14px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.homefuc {
+    background-color: rgba(250, 250, 250);
+    /* background-color: antiquewhite; */
+    width: 380px;
+    height: 180px;
+    position: absolute;
+}
+
+#tipbtn {
+    position: absolute;
+    margin-top: 406px;
+    margin-left: 140px;
+}
+
+.tipbtn {
+    width: 45px;
+    height: 5px;
+    display: inline-block;
+}
+
+#tipbtn1 {
+    background-color: rgb(140, 194, 144);
+    border-top-left-radius: 2.5px;
+    border-bottom-left-radius: 2.5px;
+}
+
+#tipbtn2 {
+    background-color: rgba(128, 128, 128, 0.147);
+    border-top-right-radius: 2.5px;
+    border-bottom-right-radius: 2.5px;
+}
+
+.banner {
+    height: 120px;
+    width: 360px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+#banner {
+    position: absolute;
+    margin-top: 100px;
+    display: flex;
+    overflow: hidden;
+    width: 380px;
+}
+
+#banner1 {
+    display: inline-block;
+}
+
+#banner2 {
+    display: inline-block;
+}
+
+.hometime {
+    background-color: rgba(250, 250, 250);
+    height: 30px;
+    width: 300px;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 65px;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+#hornpic {
+    margin-top: 2px;
+    width: 23px;
+    height: 23px;
+}
+
+#homehorn {
+    position: absolute;
+}
+
+#hometime {
+    position: absolute;
+    margin-left: 23px;
+}
+
+.time {
+    color: rgb(225, 130, 68);
+}
+
+.homebtn {
+    width: 15px;
+    height: 15px;
+    padding: 0;
+    border: 0;
+}
+
+#btn1 {
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -38px;
+}
+
+#btn2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#rarr {
+    width: 15px;
+    height: 15px;
+}
+
+#larr {
+    width: 15px;
+    height: 15px;
+}
+
+.func {
+    width: 380px;
+    height: 180px;
+    overflow: hidden;
+    margin-top: 225px;
+    position: absolute;
+    margin-left: 5px;
+}
+#pe-mark{
+    width: 60px;
+    height: 60px;
+}
+#empty-class{
+    width: 60px;
+    height: 60px;
+}
+#emptyclassdiv{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#pemarkdiv{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#ecspan{
+    margin-left: 12px;
+    width: 70px;
+    display: inline-block;
+    font-size: 14px;
+    color: rgba(102, 102, 102, 0.844);;
+}
+#pespan{
+    width: 70px;
+    display: inline-block;
+    font-size: 14px;
+    color: rgba(102, 102, 102, 0.844);
+}
+#ecbtn{
+    height: 60px;
+    width: 90px;
+    padding: 0;
+    background-color: #ffffff00;
+    border: 0;
+}

@@ -1,0 +1,11 @@
+.login-bg {
+    background-image: url("./loginbg.jpg");
+    /* background-size: 420px 780px;
+    width: 420px;
+    height: 700px; */
+    background-repeat: no-repeat;
+    /* margin: auto 500px; */
+    height: 844px;
+    width: 390px;
+    background-size: 100%;
+}
